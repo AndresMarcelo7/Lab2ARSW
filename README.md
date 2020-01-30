@@ -1,3 +1,3 @@
 # Lab2ARSW
 
-![imagen1](Imagenes/a.PNG)
+![imagen1](img/a.PNG)
